@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215590957062",
+    "project_id": "sewamobil-6c563",
+    "storage_bucket": "sewamobil-6c563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215590957062:android:2443d7cbe41ab2ce609387",
+        "android_client_info": {
+          "package_name": "com.example.sewa_mobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215590957062-ifnlefp1iasv2ci6t16al4t2uc58dk5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF0ZAhvFdCZ1Dehdq_Hs7Yt1HUSTlVRvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215590957062-ifnlefp1iasv2ci6t16al4t2uc58dk5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
